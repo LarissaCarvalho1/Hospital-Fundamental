@@ -30,5 +30,5 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 <img src= "BancoHospital001.png">
 
 
-## Desse modelo já devemos gerar a etapa lógica da nossa modelagem!
+### Desse modelo já devemos gerar a etapa lógica da nossa modelagem!
 <img src= "BancoHospital02.png">
